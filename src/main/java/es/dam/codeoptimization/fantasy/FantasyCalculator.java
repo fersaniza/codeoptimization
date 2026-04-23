@@ -64,7 +64,7 @@ public class FantasyCalculator {
             case "DELANTERO":
                 result = pointsForGoals(result, goals, 6);
             
-            result = pointsForAssists(result, assists, 5);
+                result = pointsForAssists(result, assists, 5);
             
                 break;
         }
